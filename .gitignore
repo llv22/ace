@@ -20,3 +20,8 @@ jam/
 .git-ref
 npm-debug.log
 deps/
+
+
+# for updates of ace for swift
+lib/ace/snippets/swift.js
+tool/tmlanguages/
